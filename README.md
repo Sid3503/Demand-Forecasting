@@ -129,5 +129,6 @@ Date,Sales
 ![Data Chat](https://github.com/user-attachments/assets/d58a26d3-34fb-4931-a439-29af9f4a7201)
 ![image](https://github.com/user-attachments/assets/447374a1-06a8-48fd-b0ae-15bd25d842da)
 
+## Author 📍
+
 For any questions or issues, please open an issue on the [@Siddharth Mishra](https://github.com/Sid3503)
-```
