@@ -106,9 +106,12 @@ Date,Sales
 
 ## Screenshots 📸
 
+*Project Map*
+
 ![Project Map](https://github.com/user-attachments/assets/699243ba-465e-47af-a561-7d7456fcbd18)
 
 *Forecast Generation*
+
 ![Forecast Generation](https://github.com/user-attachments/assets/5d3a5260-3089-4aac-99e1-493d0ca1b7bb)
 ![Image](https://github.com/user-attachments/assets/85ba92e6-7a27-49f4-b494-257c38933e2c)
 ![Image](https://github.com/user-attachments/assets/cdda008e-a14e-4c1f-9151-dd4f83ec7d12)
@@ -116,9 +119,11 @@ Date,Sales
 ![Image](https://github.com/user-attachments/assets/b30650ee-389b-4aab-8acf-b64bd1cea4b8)
 
 *Graph Analysis*
+
 ![Image Analysis](https://github.com/user-attachments/assets/93a0b02d-7b25-446b-a851-e58b51989500)
 
 *Data Analysis*
+
 ![Data Chat](https://github.com/user-attachments/assets/d58a26d3-34fb-4931-a439-29af9f4a7201)
 ![image](https://github.com/user-attachments/assets/447374a1-06a8-48fd-b0ae-15bd25d842da)
 ```
