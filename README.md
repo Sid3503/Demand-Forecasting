@@ -1,6 +1,6 @@
 # Demand Forecasting App 📊
 
-![Demo](https://via.placeholder.com/800x400?text=Demand+Forecasting+App+Demo) <!-- Replace with actual demo GIF -->
+![Demo](https://github.com/user-attachments/assets/9fc5bf11-8f60-4780-8e4d-2280cb09943a)
 
 A Streamlit-based web application for demand forecasting using Prophet and N-Beats models, enhanced with Gemini AI for pattern detection and analysis.
 
